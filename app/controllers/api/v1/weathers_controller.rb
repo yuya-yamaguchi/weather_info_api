@@ -4,6 +4,7 @@ module Api
       def index
         require 'json'
         require 'csv'
+        require 'net/http'
         url = "http://api.openweathermap.org/data/2.5/weather"
         api_key = "c265c59cd208bbda130e8dafcb70681b"
         uri = URI("#{url}?q=Tokyo,jp&APPID=#{api_key}")
