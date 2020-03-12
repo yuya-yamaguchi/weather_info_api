@@ -1,0 +1,2 @@
+coord_lon,coord_lat,weather_id,weather_main,weather_description,weather_icon,base,main_temp,main_feels_like,main_temp_min,main_temp_max,main_pressure,main_humidity,visibility,wind_speed,wind_deg,clouds_all,dt,sys_type,sys_id,sys_country,sys_sunrise,sys_sunset,timezone,id,name,cod
+139.69,35.69,801,Clouds,few clouds,02d,stations,286.76,281.75,284.26,288.15,1021,43,10000,4.6,150,20,1584001875,1,8074,JP,1583960188,1584002743,32400,1850144,Tokyo,200
